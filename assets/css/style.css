@@ -1,0 +1,62 @@
+body{
+	background-image: url(../images/background.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+
+h1{
+	margin-bottom: 0;
+	background-color:  #333;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	color: white;
+
+}
+h2{
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	color: white;
+	background-color: #333;
+	font-family: 'Roboto Mono', monospace;
+}
+
+#me{
+	height: 200px;
+	width: 200px;
+	border-radius: 50%;
+	border-style: solid;
+	border-width:  5px;
+	border-color:  white;
+	margin-top: : 50px;
+}
+
+.footer{
+	
+	color: white;
+	background-color: #333;
+}
+.about{
+
+	color: white;
+	width: 100%;
+	font-size: 18px;
+	line-height: 1.5;
+	background-color: #333;
+}
+
+.values{
+	
+	color: white;
+	width: 100%;
+	font-size: 18px;
+	line-height: 1.5;
+	background-color: #333;
+}
+
+
+.container{
+	width: 500px;
+	margin: 0 auto;
+	text-align: center;
+}
